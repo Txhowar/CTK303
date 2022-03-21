@@ -9,6 +9,9 @@ h1 {
 
 }
 
+iframe {
+    border-width: 0px;
+}
 
 .dropshadowbox {
   padding: 10px;
